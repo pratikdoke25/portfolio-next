@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Front End Developer',
     company: "Oasis Infobytes Inc",
-    duration: "(feb 2023 - may-2023)"
+    duration: "(Feb 2023 - May-2023)"
   },
   {
     id: 2,
