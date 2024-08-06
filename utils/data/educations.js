@@ -1,10 +1,10 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "Bachelor Degree In Information Technology",
     duration: "2020 - Present",
-    institution: "SKN SITS Lonvala",
-    Percentage:"9/10"
+    institution: "SKN Sinhgad Institude of Technology and Science Lonvala",
+    Percentage:"9.06/10"
   },
   {
     id: 2,
