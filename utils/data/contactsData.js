@@ -4,8 +4,8 @@ export const contactsData = {
     address: 'Pune Maharashtra',
     github: 'https://github.com/pratikdoke25',
     facebook: '',
-    linkedIn: '',
-    twitter: '',
+    linkedIn: 'https://www.linkedin.com/in/pratik-doke-3539a3249/',
+    twitter: 'https://x.com/impratikdoke',
     stackOverflow: '',
     
 }
